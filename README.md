@@ -1,7 +1,7 @@
 # Attention!!!
 
 ***TL;DR** for english speakers:
-check code, not design.*
+check code, not how it looks like.*
 
 ---
 
